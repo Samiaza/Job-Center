@@ -5,6 +5,13 @@ Client-Server application in Kotlin using Ktor, Dagger2 and Retrofit2
 
 Этот проект представляет собой клиент-серверное приложение, где сервер реализован на Ktor, а клиент - на Android с использованием Dagger2 и Retrofit2. Ktor используется для создания сервера, который обрабатывает HTTP-запросы, а Dagger2 и Retrofit2 используются на клиенте для управления зависимостями и выполнения сетевых запросов соответственно.
 
+<p float="left">
+  <img src="/misc/images/client1.png" width="200" />
+  <img src="/misc/images/client2.png" width="200" />
+  <img src="/misc/images/company.png" width="200" />
+  <img src="/misc/images/vacancy.png" width="200" />
+</p>
+
 ## Требования
 
 - Android Studio  4.0 или выше.
